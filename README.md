@@ -1,2 +1,2 @@
 #README
-Single-Paged bootsrap navbar
+Single-Paged site with bootsrap navbar
