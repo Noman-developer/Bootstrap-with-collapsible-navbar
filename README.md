@@ -1,4 +1,2 @@
 #README
 Collapsible navbar
- 
- 
